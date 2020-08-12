@@ -1,0 +1,13 @@
+* body {
+    box-sizing: border-box;
+    background-color: darkcyan;
+  }
+  #oli{
+      border: 2px solid red;
+  }
+.firstButton{
+    background-color: lightsteelblue;
+}
+.secondButton{
+    background-color: lightsalmon;
+}
